@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1411642024000 351 92f63127cc8dc61e717542e54572a6a5a7e11813 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/BuildConfig.class
+1411731183000 446 cee2c83387dda4e4c666a0ae61719af764ada518 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R$layout.class
+1411662204000 1896 0910283b7a74fc63d2e17b5a8d4647275be37ab5 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/Stock.class
+1411642024000 416 5f4061f5e0f9580d8c65582c581a24b7368f3080 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R$drawable.class
+1411731183000 481 4a0b51d92d2446a3659850759594f3d3e9456175 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R$string.class
+1411641985000 556198 4a6be13368bb64c5a0b0460632d228a1a915f58f /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/libs/android-support-v4.jar
+1411731183000 397 51c9c93743f51e1853e5d4b94ccdf5aa48c0c9b7 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R$menu.class
+1411642024000 349 ae1d87f0b9fea7c8c51046e4fe8209a7bb738cef /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R$attr.class
+1411731183000 440 3e7f42ae3396bbbeadf4549c005acb0a47811ef7 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R$style.class
+1411734503000 10493 33736b452df90539cd0161394d37a50e01537a30 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/MainActivity.class
+1411734503000 1427 785b49948388f9c4fea560fe4e0cea405033a19d /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/MainActivity$1.class
+1411642024000 470 0eb129ebf3791c9eccb9e3cf5cdeeec5d365777d /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R$dimen.class
+1411731183000 707 ea7e9fd53c07359c4c4be696731754bba7874372 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R.class
+1411731183000 712 bc9edbde4d6082a7191b9d6e715185b7119a415a /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/R$id.class
+1411644551000 1665 6634493fcbccc22ed1721724b24c2a6b2ffc88a4 /Users/marctamaritromero/Documents/Personal/MyStocksProject/MyStocks/build/classes/debug/com/simarc86/mystocks/SQLHelper.class

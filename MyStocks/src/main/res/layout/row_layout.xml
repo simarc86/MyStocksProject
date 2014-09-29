@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                 android:layout_width="match_parent"
+                                 android:layout_height="match_parent"
+                                 android:longClickable="true">
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/relative_row"
+            android:paddingTop="10dp">
+
+        <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/table_row">
+
+            <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/name_field"
+                        android:text="name"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentTop="true"
+                        android:paddingRight="100dp"
+                        android:layout_marginRight="0dp"/>
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/var_net_field"
+                        android:text="var_net"
+                        android:paddingRight="20dp"
+                        android:layout_toLeftOf="@+id/price_field"/>
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/var_field"
+                        android:text="var"
+                        android:paddingRight="20dp"
+                        android:layout_toLeftOf="@+id/var_net_field"/>
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/price_field"
+                        android:text="price"
+                        android:paddingRight="20dp"
+                        android:layout_toLeftOf="@+id/date_field"
+                        />
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/date_field"
+                        android:text="date"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentRight="true"
+                        android:paddingRight="20dp"/>
+
+            </RelativeLayout>
+
+
+        </TableRow>
+
+    </RelativeLayout>
+
+</RelativeLayout>
